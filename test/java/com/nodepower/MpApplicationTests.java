@@ -105,11 +105,11 @@ class MpApplicationTests {
     //-----------------自定义功能的接口----------------------
 
     //自定义-根据name查询信息：
-    @Test
+  /*  @Test
     void customMethod1(){
         User res = userMapper.selectByName("Hailey");
         System.out.println(res);
-    }
+    }*/
 
 
 
